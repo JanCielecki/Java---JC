@@ -1,2 +1,2 @@
-# nasz-projekt
+# Java
 Przykładowy projekt
